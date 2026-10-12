@@ -1,0 +1,18 @@
+# Compilação e Build do Arduino
+*.elf
+*.hex
+*.o
+*.a
+build/
+*.build.byte
+*.identity
+
+# Editores e IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
